@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
-print('Szia!')
-print("Én egy python-program vagyok!")
+print('...Hogyha én ezt tudtam volna)
+print('Köpönyeget hoztam vóna'!)
+print('Rásír a sok kis malac is!')
+print('"Én is, én is, én is, én is!"')
